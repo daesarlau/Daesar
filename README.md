@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Daesar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Daesar 
+- 👀 I’m interested in  coding about cryptography
+- 🌱 I’m currently learning zero-knowledge proof and blockchain.
+- 💞️ I’m looking to collaborate on privacy computing.
 - 📫 How to reach me: [daesarlau@qq.com](daesarlau@qq.com)
 
 <!---
